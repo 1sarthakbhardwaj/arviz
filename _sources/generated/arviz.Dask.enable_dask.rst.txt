@@ -1,0 +1,6 @@
+arviz.Dask.enable\_dask
+=======================
+
+.. currentmodule:: arviz
+
+.. automethod:: Dask.enable_dask

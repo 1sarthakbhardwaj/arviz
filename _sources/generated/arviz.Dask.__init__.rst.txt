@@ -1,0 +1,6 @@
+arviz.Dask.\_\_init\_\_
+=======================
+
+.. currentmodule:: arviz
+
+.. automethod:: Dask.__init__

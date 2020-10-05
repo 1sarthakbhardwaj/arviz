@@ -1,0 +1,6 @@
+arviz.Numba.\_\_init\_\_
+========================
+
+.. currentmodule:: arviz
+
+.. automethod:: Numba.__init__

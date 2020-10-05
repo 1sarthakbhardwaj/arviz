@@ -1,0 +1,6 @@
+arviz.interactive\_backend.\_\_init\_\_
+=======================================
+
+.. currentmodule:: arviz
+
+.. automethod:: interactive_backend.__init__

@@ -1,0 +1,23 @@
+﻿arviz.interactive\_backend
+==========================
+
+.. currentmodule:: arviz
+
+.. autoclass:: interactive_backend
+
+   
+   
+
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+
+   
+      interactive_backend.__init__
+   
+   
+
+   
+   
+   

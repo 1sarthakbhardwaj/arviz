@@ -1,0 +1,6 @@
+arviz.Dask.disable\_dask
+========================
+
+.. currentmodule:: arviz
+
+.. automethod:: Dask.disable_dask

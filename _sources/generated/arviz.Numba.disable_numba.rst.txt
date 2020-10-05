@@ -1,0 +1,6 @@
+arviz.Numba.disable\_numba
+==========================
+
+.. currentmodule:: arviz
+
+.. automethod:: Numba.disable_numba
